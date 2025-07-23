@@ -21,7 +21,7 @@
 ## 4. Nodes in N8N.
 
 - Using nodes we can perform actions in the workflow.The following nodes are,
-- Trigger Node : There are different way to trigger the workflow.E.g Manual Trigger, schedule trigger, action trigger(form action), based on some message we can trigger, webhook trigger(listen for http request on a particular URL).
+- **Trigger Node :** There are different way to trigger the workflow.E.g Manual Trigger, schedule trigger, action trigger(form action), based on some message we can trigger, webhook trigger(listen for http request on a particular URL).
 - Action Node : we can perform action using action nodes.E.g Interac with sheets, sending an email, message..all the third party applications.
 - Utility Node : There are different types of utility nodes.E.g If Node, Switch Node, Merge Node, Split Node.
 - Code Node : we can perform some data manipulations.
