@@ -36,7 +36,7 @@
 
 - we can store our credentails in the credentails store and we can use it in our workflow.
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 ## 8. Error Debug.
 
@@ -44,4 +44,19 @@
 - Stop workflow,
 - Continue,
 - Continue with error output.
+
+## 8. N8N Input and output.
+
+- N8N accpets input and output in the form of schema, table and json.
+- Json it is a key value pair.
+
+```
+    {
+        "name":"kavi",
+        "age":12,
+        "employee":true,
+        "array":{1,2,3}
+    }
+```
+
 
