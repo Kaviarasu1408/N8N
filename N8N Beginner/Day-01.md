@@ -27,3 +27,21 @@
 - **Core Node :** we can perform some data manipulations.**E.g** Code Node(To write a code in python or Js), HTTP Request Node(send an http request).
 - **Agent Node :** we can call an AI Models set an memeory to it.**E.g** AI Agent, LLM Chain, Sentimental Analyis.
 - **Human in the loop :** we can have human interaction in the workflow.
+
+## 5. Variables.
+
+- we can create a variable and use that variable across the workflows.
+
+## 6. Credentails.
+
+- we can store our credentails in the credentails store and we can use it in our workflow.
+
+![alt text](image-1.png)
+
+## 8. Error Debug.
+
+- If any error, there are multiple ways to handle.
+- Stop workflow,
+- Continue,
+- Continue with error output.
+
