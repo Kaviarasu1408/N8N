@@ -31,6 +31,7 @@
 ## 5. Variables.
 
 - we can create a variable and use that variable across the workflows.
+![alt text](Images/image-2.png)
 
 ## 6. Credentails.
 
