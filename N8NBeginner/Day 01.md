@@ -31,13 +31,13 @@
 ## 5. Variables.
 
 - we can create a variable and use that variable across the workflows.
-![alt text](Images/image-2.png)
+![alt text](../Images/image-2.png)
 
 ## 6. Credentails.
 
 - we can store our credentails in the credentails store and we can use it in our workflow.
 
-![alt text](Images/image-1.png)
+![alt text](../Images/image-1.png)
 
 ## 8. Error Debug.
 
