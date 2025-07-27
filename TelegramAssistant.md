@@ -1,7 +1,7 @@
 ## Telegram AI Assistant with n8n
 
 
-A smart, multimodal assistant built using [n8n](https://n8n.io) that integrates with **Telegram**, **Google Tasks**, **Google Calendar**, and **Google Sheets**. It accepts both **text and audio input**, responds using **OpenAI models**, and manages daily productivity through a **multi-agent system**.
+A smart, multimodal Agent built using [n8n](https://n8n.io) that integrates with **Telegram**, **Google Tasks**, **Google Calendar**, and **Google Sheets**. It accepts both **text and audio input**, responds using **OpenAI models**, and manages daily productivity through a **multi-agent system**.
 
 
 - 🗣️ **Multimodal Input**: Accepts both text and voice messages via Telegram.
