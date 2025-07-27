@@ -4,6 +4,9 @@
 - And Also added additional functionality to get his daily task from the google task.
 - Integrated with telegram, Google task and google calendar and used Agent AI.
 - Multi Agent System.
+- **Model :** Open API Model
+- **Tools :** Google Task, Google Sheets,
+- **Memory :** Simple Memory
 
 ![alt text](Images/telegram1.png)
 
@@ -13,4 +16,4 @@
 
 ![alt text](Images/telegram-ouput.jpg)
 
-![alt text](Images/telegram-ouput.jpg)
+![alt text](Images/telegramOutput.png)
