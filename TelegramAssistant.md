@@ -16,4 +16,4 @@
 
 ![alt text](Images/telegram-ouput.jpg)
 
-![alt text](Images/telegramOutput.png)
+![alt text](Images/telegramOutput.jpg)
