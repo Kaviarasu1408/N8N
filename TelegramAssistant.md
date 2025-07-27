@@ -1,12 +1,18 @@
-## Creating Telegram Assitant
+## Telegram AI Assistant with n8n
 
-- Created a telegram assistant in N8N to accept the input as both text and audio and response to those input.
-- And Also added additional functionality to get his daily task from the google task.
-- Integrated with telegram, Google task and google calendar and used Agent AI.
-- Multi Agent System.
-- **Model :** Open API Model
-- **Tools :** Google Task, Google Sheets,
-- **Memory :** Simple Memory
+
+A smart, multimodal assistant built using [n8n](https://n8n.io) that integrates with **Telegram**, **Google Tasks**, **Google Calendar**, and **Google Sheets**. It accepts both **text and audio input**, responds using **OpenAI models**, and manages daily productivity through a **multi-agent system**.
+
+
+
+- 🗣️ **Multimodal Input**: Accepts both text and voice messages via Telegram.
+- 🧠 **AI-Powered Responses**: Uses OpenAI's GPT models to generate intelligent replies.
+- 📅 **Daily Task Retrieval**: Fetches tasks from Google Tasks and displays them in Telegram.
+- 🕒 **Calendar Integration**: Syncs with Google Calendar to provide event summaries.
+- 🧩 **Multi-Agent Architecture**: Modular agents handle specific tasks like scheduling, task management, and memory.
+- 📝 **Simple Memory**: Retains context across sessions for smoother conversations.
+- 📊 **Google Sheets Integration**: Logs interactions and tasks for tracking and analysis.
+
 
 ![alt text](Images/telegram1.png)
 
