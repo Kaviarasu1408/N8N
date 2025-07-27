@@ -28,6 +28,15 @@
 - **Agent Node :** we can call an AI Models set an memeory to it.**E.g** AI Agent, LLM Chain, Sentimental Analyis.
 - **Human in the loop :** we can have human interaction in the workflow.
 
+## 3. Webhooks Triggers.
+
+- using webhooks trigeer, we can listen for a request in a particular url with the payload.
+- Once the webhook received the request we can start our flow.
+
+## 4. Deploy N8N.
+
+- we can deploy N8N in N8N.Cloud, AWS, Azure, GCP, Docker and locally in our computer.
+
 ## 5. Variables.
 
 - we can create a variable and use that variable across the workflows.
